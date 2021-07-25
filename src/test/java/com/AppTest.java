@@ -22,7 +22,7 @@ public class AppTest
   public void testAddMethod() {
 	Calculation cc = new Calculation();
 	int result = cc.add(10,20);
-	assertEquals(50,result);
+	assertEquals(30,result);
 }
 
 }
